@@ -1,7 +1,7 @@
 # Clinical Incident Triage Automation
 
-> I-powered incident reporting system for healthcare facilities — built on Make.com 
-> Zero manual escalation. Real-time severity classification. Full audit trail. Built in 2 hours.
+> Reporting system for healthcare facilities — built on Make.com 
+> Zero manual escalation. Real-time severity classification. Full audit trail.
 
 ---
 
