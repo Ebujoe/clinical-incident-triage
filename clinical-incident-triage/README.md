@@ -1,6 +1,6 @@
-# 🏥 Clinical Incident Triage Automation
+# Clinical Incident Triage Automation
 
-> **AI-powered incident reporting system for healthcare facilities — built on Make.com**  
+> I-powered incident reporting system for healthcare facilities — built on Make.com 
 > Zero manual escalation. Real-time severity classification. Full audit trail. Built in 2 hours.
 
 ---
@@ -26,9 +26,9 @@ Clinical incident reporting is broken:
 
 ## The Solution
 
-A staff member submits a Google Form → **AI instantly classifies severity** → the right people are alerted across Email, Slack, and SMS → the reporter gets an auto-acknowledgment with a reference number → a live dashboard updates automatically.
+A staff member submits a Google Form → AI instantly classifies severity** → the right people are alerted across Email, Slack, and SMS → the reporter gets an auto-acknowledgment with a reference number → a live dashboard updates automatically.
 
-**All within 47 seconds. Zero manual effort.**
+All within 47 seconds. Zero manual effort.**
 
 ---
 
@@ -73,12 +73,12 @@ Google Sheets (Update Status + Reference ID)
 
 | Feature | Description |
 |---|---|
-| 🤖 AI Triage | GPT-4o reads the incident description and classifies severity — not a checkbox, actual intelligence |
-| ⚡ Instant Routing | CRITICAL incidents reach the director, Slack, and on-call manager simultaneously |
-| 📧 Auto-Acknowledgment | Reporter receives confirmation + unique reference number within seconds |
-| 📊 Live Dashboard | Google Sheets dashboard with timestamp, AI classification, and audit trail |
-| 🔖 Reference IDs | Every incident gets a traceable ID: `INC-20260507-023015` |
-| 🔄 24/7 Operation | Runs every 15 minutes automatically, no human required |
+| AI Triage | GPT-4o reads the incident description and classifies severity — not a checkbox, actual intelligence |
+| Instant Routing | CRITICAL incidents reach the director, Slack, and on-call manager simultaneously |
+| Auto-Acknowledgment | Reporter receives confirmation + unique reference number within seconds |
+| Live Dashboard | Google Sheets dashboard with timestamp, AI classification, and audit trail |
+| Reference IDs | Every incident gets a traceable ID: `INC-20260507-023015` |
+| 24/7 Operation | Runs every 15 minutes automatically, no human required |
 
 ---
 
@@ -185,7 +185,7 @@ To import it into Make.com:
 4. Upload `scenario-blueprint.json`
 5. Reconnect your credentials (Google, OpenAI, Gmail, Slack)
 
-> ⚠️ You will need to reconnect all service credentials after importing — Make.com does not export API keys for security reasons.
+>  You will need to reconnect all service credentials after importing — Make.com does not export API keys for security reasons.
 
 ---
 
